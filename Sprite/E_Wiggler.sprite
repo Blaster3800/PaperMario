@@ -1,0 +1,76 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 22.0",
+			"Rect" : "0 0 16 22",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "17 6 33 22",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "34 7 50 22",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "51 6 67 22",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "68 6 84 22",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "0 23 16 39",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "17 23 33 39",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 15.0",
+			"Rect" : "34 24 50 39",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "51 23 67 39",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 16.0",
+			"Rect" : "68 23 84 39",
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "6,7,8",
+			"Name" : "AngerBody"
+		},
+		{
+			"Frames" : "5",
+			"Name" : "AngerHead"
+		},
+		{
+			"Frames" : "1,2,3",
+			"Name" : "Body"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Head"
+		}
+	],
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
