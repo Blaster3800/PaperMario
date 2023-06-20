@@ -2,3 +2,5 @@ Spriters
 ---------
 FungiCaptain
 Puffed by Puff
+TwinTailz
+Super Mariya NP
