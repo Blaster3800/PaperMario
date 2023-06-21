@@ -2,24 +2,35 @@
 	"Frames" : 
 	[
 		{
-			"Offset" : "8.0 16.0",
-			"Rect" : "18 0 36 16",
+			"Offset" : "9.0 17.0",
+			"Rect" : "0 0 18 17",
 			"WingStyle" : 0
 		},
 		{
-			"Offset" : "8.0 16.0",
-			"Rect" : "0 0 17 16",
+			"Offset" : "10.0 17.0",
+			"Rect" : "19 0 39 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 17.0",
+			"Rect" : "40 0 60 17",
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 17.0",
+			"Rect" : "61 0 81 17",
 			"WingStyle" : 0
 		}
 	],
 	"NamedAnimations" : 
 	[
 		{
-			"Frames" : "0",
+			"Delay" : 6,
+			"Frames" : "1,2,3",
 			"Name" : "Idle"
 		},
 		{
-			"Frames" : "1",
+			"Frames" : "0",
 			"Name" : "Shy"
 		}
 	],
