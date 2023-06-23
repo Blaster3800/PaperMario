@@ -1,0 +1,113 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "0 0 17 25",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "18 0 35 25",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "10.0 24.0",
+			"Rect" : "36 0 56 24",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "18 0 35 25",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "57 0 74 25",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 24.0",
+			"Rect" : "75 0 92 25",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 12.0",
+			"Rect" : "0 26 14 39",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 13.0",
+			"Rect" : "15 26 29 39",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 13.0",
+			"Rect" : "30 26 45 39",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 13.0",
+			"Rect" : "46 26 60 39",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 13.0",
+			"Rect" : "61 26 75 39",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "8.0 13.0",
+			"Rect" : "76 26 91 39",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		},
+		{
+			"Offset" : "7.0 13.0",
+			"Rect" : "92 26 106 39",
+			"SubPositions" : null,
+			"WingStyle" : 0
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "7",
+			"Name" : "Die"
+		},
+		{
+			"Frames" : "7,8,9,10,11,12",
+			"Name" : "EmptyShellSpin"
+		},
+		{
+			"Delay" : 16,
+			"Frames" : "4,5",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "6",
+			"Name" : "ShellAwake"
+		},
+		{
+			"Frames" : "7,8,9,10,11,12",
+			"Name" : "ShellSpin"
+		},
+		{
+			"Frames" : "0,1,2,3",
+			"Name" : "Walk"
+		}
+	],
+	"SubPositions" : "Wing1",
+	"Version" : "Neoarc's Sprite v2.0"
+}
